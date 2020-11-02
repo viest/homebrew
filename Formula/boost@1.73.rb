@@ -1,4 +1,4 @@
-class Boost < Formula
+class BoostAT173 < Formula
   desc "Collection of portable C++ source libraries"
   homepage "https://www.boost.org/"
   url "https://downloads.sourceforge.net/project/boost/boost/1.73.0/boost_1_73_0.tar.bz2"
